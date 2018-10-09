@@ -1,4 +1,4 @@
-# [《小吴同学的SpringBoot学习之核心技术篇》](https://github.com/WuqingVika/WqSpringCloudLearn)
+# [《小吴同学的SpringBoot学习之核心技术篇》](https://github.com/WuqingVika/WqSpringBootDemo)
 
 ## 1.初遇SpringBoot
 
